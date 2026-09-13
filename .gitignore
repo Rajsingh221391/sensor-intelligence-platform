@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Java / Maven
+backend/target/
+SpringBoot/target/
+*.class
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs
+*.log
+
+# OS/editor temporary files
+*.swp
+*.swo
