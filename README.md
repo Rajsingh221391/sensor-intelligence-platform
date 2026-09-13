@@ -110,4 +110,4 @@ This opens a browser-based interface showing live tables, per-sensor trend chart
 
 ## License
 
-Specify your chosen license here.
+Project not yet deployed 
